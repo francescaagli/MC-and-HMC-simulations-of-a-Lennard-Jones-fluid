@@ -12,5 +12,4 @@ The two different simulations gave very similar results in all the quantities. T
 ## Repository files
 
 - `MC_HMC.ipynb` – Jupyter notebook.
-- `MC_HMC.html` – HTML version of the notebook.
 
